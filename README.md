@@ -32,3 +32,12 @@
 - aula26-02/ProjetoAlunoConexao: Projeto que envolve a conexão de dados de alunos, desenvolvido em 26 de fevereiro.​
 
 - aulaJava07_03: Projeto desenvolvido na aula de 7 de março.
+
+<br>
+
+**Pré-requisitos**
+Para executar os projetos deste repositório, é necessário ter instalado:
+
+-- Java Development Kit (JDK) (versão 11 ou superior)
+
+-- Apache NetBeans ou outra IDE compatível com Java
