@@ -38,6 +38,14 @@
 **Pré-requisitos**
 Para executar os projetos deste repositório, é necessário ter instalado:
 
--- Java Development Kit (JDK) (versão 11 ou superior)
+-- Java Development Kit (JDK) (versão 11 ou superior).
 
--- Apache NetBeans ou outra IDE compatível com Java
+-- Inteliij IDEA ou outra IDE compatível com Java.
+
+<br>
+
+**✔Contribuições**
+Contribuições são bem-vindas! Se você deseja melhorar algum dos projetos ou adicionar novos exemplos, sinta-se à vontade para fazer um fork deste repositório e enviar um pull request com suas alterações.​
+
+**🚨Licença**
+Este repositório não possui uma licença específica atribuída. Se você pretende utilizar o código aqui contido, entre em contato comigo.😃
