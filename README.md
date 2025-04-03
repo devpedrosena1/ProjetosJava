@@ -2,7 +2,7 @@
 
 *Este repositório contém uma coleção de projetos desenvolvidos em Java durante aulas e práticas de programação. Cada pasta representa um projeto ou exercício específico, identificado pela data ou pelo tema abordado.*
 
-<br>
+<hr>
 
 **Estrutura do Repositório**
 - AulaJava25_03: Projeto desenvolvido na aula de 25 de março.​
@@ -33,7 +33,7 @@
 
 - aulaJava07_03: Projeto desenvolvido na aula de 7 de março.
 
-<br>
+<hr>
 
 **Pré-requisitos**
 Para executar os projetos deste repositório, é necessário ter instalado:
@@ -42,7 +42,7 @@ Para executar os projetos deste repositório, é necessário ter instalado:
 
 -- Inteliij IDEA ou outra IDE compatível com Java.
 
-<br>
+<hr>
 
 **✔Contribuições**
 Contribuições são bem-vindas! Se você deseja melhorar algum dos projetos ou adicionar novos exemplos, sinta-se à vontade para fazer um fork deste repositório e enviar um pull request com suas alterações.​
